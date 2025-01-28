@@ -4,8 +4,10 @@ permalink: "/research/"
 layout: page
 ---
 
-## Publications
+### Publications
 
-## Working Papers
+### Working Papers
 
-## Short Papers
+### Short Papers
+
+### Working in Progress
