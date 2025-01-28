@@ -12,6 +12,12 @@ Antecipação e surpresa monetária e seus efeitos nas taxas de juros de mercado
 
 ### Working Papers
 
+Do the Rich Save More? Evidence from Brazil (with Gomes, F.)
+
+Consumption at Retirement: Is There a Puzzle in Brazil? (with Gomes, F.)
+
+Inequality and Conspicuous Consumption in Brazil: Is Debt Linked to Status-Seeking Behavior? (with Gomes, F.)
+
 ### Short Papers
 
 ### Working in Progress
