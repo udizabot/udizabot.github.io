@@ -21,3 +21,9 @@ Inequality and Conspicuous Consumption in Brazil: Is Debt Linked to Status-Seeki
 ### Short Papers
 
 ### Working in Progress
+
+Consumption Inequality Throughout the Life Cycle (*with Fábio Gomes*)
+
+Microeconomics of Saving Behavior (*with Fábio Gomes*)
+
+
